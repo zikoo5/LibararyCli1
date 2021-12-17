@@ -1,0 +1,5 @@
+First C# practicing project  uem   its just for string fucntions practice.
+This is a library, its books are classified in the form : xxxxBookTitleyyy
+xxxx : Book Number
+yyy : Book type
+my simple programe  prints each part separately.
